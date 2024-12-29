@@ -62,4 +62,4 @@ This project demonstrates the power of network analysis and data mining techniqu
 
 ## Projects files: 
 - `HW5.ipynb`: contains the questions 1-4-5-Bonus and the AQ
-- `Questions2-3.ipynb: contains the questions 2-3
+- `Questions2-3.ipynb`: contains the questions 2-3
