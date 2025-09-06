@@ -60,6 +60,7 @@ This project analyzes a dataset of over 3.5 million US domestic flights from 199
 ## Conclusion
 This project demonstrates the power of network analysis and data mining techniques in uncovering insights from a large dataset. By leveraging advanced algorithms and visualizations, we explored the structure, efficiency, and potential restructuring of the US airline network.
 
-## Projects files: 
-- `HW5.ipynb`: contains the questions 1-4-5-Bonus and the AQ
-- `Questions2-3.ipynb`: contains the questions 2-3
+## Project files
+- [`HW5.ipynb`](HW5.ipynb): contains questions 1, 4, 5, Bonus, and the AQ.
+- [`Questions2-3.ipynb`](Questions2-3.ipynb): contains questions 2–3.
+
